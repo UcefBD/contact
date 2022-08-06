@@ -1,0 +1,72 @@
+#button1 {
+    width: 50px;
+    height: 50px;
+    padding: 7px 10px;
+    border-radius: 25px;
+    font-size: 10px;
+    text-align: center;
+    color: black;
+}
+#btn1{
+    text-align: right;
+}
+#btn2{
+    text-align: left;
+}
+#button2 {
+    width: 50px;
+    height: 50px;
+    padding: 7px 10px;
+    border-radius: 25px;
+    font-size: 10px;
+    text-align: center;
+    color: black;
+}
+#warlock {
+    color: rgb(175, 175, 175);
+  }
+#phone{
+    color: darkgreen;
+}
+#mobile{
+    color: grey;
+    margin-left: 50px;   
+}
+#landline{
+    margin-left: 50px;
+}
+#insta{
+    color:#fa709a;
+}
+#mail{
+    color: red;
+}
+#linkedin{
+    color: rgb(62, 62, 255);
+}
+#whats{
+    color: green;
+}
+#location{
+    color: red;
+}
+#twitter{
+    color: rgb(0, 128, 255);
+}
+#phone1{
+    color: rgb(175, 175, 175);
+    margin-left: -650px;
+}
+#call{
+    margin-top: 10px ;
+    margin-left: -650px;
+}
+#mail1{
+    color: rgb(175, 175, 175);
+    margin-left: 740px;
+    margin-top: -75px ;
+}
+#mail2{
+    margin-left: 750px;
+    margin-top: -30px;
+}
